@@ -176,6 +176,7 @@ a{
 #hero .container h1{
     margin-bottom: 2px;
     color: yellow;
+    letter-spacing: .1rem;
 }
 #hero .container h3{
     color: yellow;
@@ -194,6 +195,7 @@ a{
     line-height: 30px;
     overflow: hidden;
     position: relative;
+    letter-spacing: .1rem;
 }
 #hero .wrapper .dynamic-txts li{
     font-size: 30px;
@@ -274,8 +276,11 @@ a{
 }
 #about .container p{
     max-width: 280px;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     text-align: justify;
+    font-weight: 500;
+    line-height: 25px;
+    
 }
 #about .container h1 span{
     color: rgb(124, 113, 113);
