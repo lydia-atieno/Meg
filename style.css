@@ -329,7 +329,7 @@ a{
     flex-direction: column;
     position: relative;
     display: flex;
-    /*background-color: lightyellow;*/
+    background-color: lightyellow;
 }
 /*End Service Section*/
 
@@ -441,7 +441,7 @@ a{
 }
 #footer .footer{
     flex-direction: column;
-    min-height: 200px;
+    min-height: 160px;
     padding-top: 50px;
     padding-bottom: 10px;
 }
