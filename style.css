@@ -441,7 +441,7 @@ a{
 }
 #footer .footer{
     flex-direction: column;
-    min-height: 160px;
+    min-height: 140px;
     padding-top: 50px;
     padding-bottom: 10px;
 }
